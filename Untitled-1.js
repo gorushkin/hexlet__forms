@@ -44,3 +44,19 @@
       })
     })
   }
+
+
+
+
+    // const elemnts = [
+  //   name = {
+  //     name: 'name',
+  //     id: 'sign-up-name',
+  //     element: form.querySelector('#sign-up-name'),
+  //   },
+  //   email = {
+  //     name: 'email',
+  //     id: 'sign-up-email',
+  //     element: form.querySelector('#sign-up-email'),
+  //   },
+  // ];
